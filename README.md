@@ -1,12 +1,12 @@
-# Boris Graudt
+# Hello,  I'm Boris.
 
 **AI Engineer** — Moscow, Russia
 
 ---
 
-## Contact
+## Music
 
-[t.me/waitwhaat](https://t.me/waitwhaat)
+[Playlist #0](https://music.yandex.ru/users/suchendestein/playlists/1033?utm_source=web&utm_medium=copy_link)
 
 ---
 
