@@ -57,14 +57,6 @@ PostgreSQL
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borisgraudt&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borisgraudt&layout=compact&theme=default&hide_border=true)
-
----
-
 **Location:** Moscow, Russia  
 **Timezone:** UTC+3  
 **Status:** Creating bugs & building solutions
