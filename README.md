@@ -4,20 +4,14 @@
 
 ---
 
-## Music
-
-[Playlist #0](https://music.yandex.ru/users/suchendestein/playlists/1033?utm_source=web&utm_medium=copy_link)
-
----
-
 ## Projects
 
-### ASL AI Translator
+### Helios ASL AI Translator
 Real-time American Sign Language translator using computer vision and machine learning for gesture recognition and text conversion.
 
 **Technologies:** Python, TensorFlow, OpenCV, Computer Vision
 
-[→ View Project](https://github.com/borisgraudt/asl-ai)
+[→ View Project](https://github.com/borisgraudt/helios)
 
 ### Elysium Protocol
 Decentralized, censorship-resistant internet protocol built with AI optimization, quantum encryption, and peer-to-peer architecture to ensure global freedom of information.
@@ -31,7 +25,7 @@ Decentralized, censorship-resistant internet protocol built with AI optimization
 ## Technical Skills
 
 **Programming Languages**
-Python, Go
+Python, Rust
 
 **Machine Learning & AI**
 TensorFlow, PyTorch, scikit-learn, OpenCV
@@ -58,7 +52,6 @@ PostgreSQL
 ---
 
 **Location:** Moscow, Russia  
-**Timezone:** UTC+3  
-**Status:** Creating bugs & building solutions
+**Timezone:** UTC+3
 
 *Last updated: 2025*
