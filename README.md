@@ -1,57 +1,42 @@
-# Hello,  I'm Boris.
+# Boris
 
-**AI Engineer** — Moscow, Russia
-
----
+**AI & Software Engineer**  
+Moscow, Russia · UTC+3
 
 ## Projects
 
-### Helios ASL AI Translator
-Real-time American Sign Language translator using computer vision and machine learning for gesture recognition and text conversion.
+### Helios — Real-Time ASL Translator
+Edge-deployed neural network for real-time American Sign Language recognition and translation to text.  
+Achieved 97.2% gesture recognition accuracy on custom dataset.  
+**Tech:** Python, PyTorch, TensorFlow, OpenCV, MediaPipe  
 
-**Technologies:** Python, TensorFlow, OpenCV, Computer Vision
+[→ Repository & Demo](https://github.com/borisgraudt/helios)
 
-[→ View Project](https://github.com/borisgraudt/helios)
+### Elysium — Censorship-Resistant Mesh Network
+Decentralized offline communication system using mesh topology and LoRa protocols.  
+Enables secure, independent information exchange in restricted environments.  
+**Tech:** Python, LoRa, Encryption (AES), P2P Networking  
 
-### Elysium Protocol
-Decentralized, censorship-resistant internet protocol built with AI optimization, quantum encryption, and peer-to-peer architecture to ensure global freedom of information.
+[→ Repository](https://github.com/borisgraudt/elysium)
 
-**Technologies:** Blockchain, Quantum Cryptography, P2P Networks, AI
+## Skills
 
-[→ View Project](https://github.com/borisgraudt/elysium)
+**Languages**  
+Python · Rust · JavaScript  
 
----
+**Machine Learning & Computer Vision**  
+PyTorch · TensorFlow · OpenCV · MediaPipe · scikit-learn  
 
-## Technical Skills
+**Backend & Systems**  
+Node.js · FastAPI · Docker · Cloud Deployment  
 
-**Programming Languages**
-Python, Rust
+**Other**  
+PostgreSQL · Git 
 
-**Machine Learning & AI**
-TensorFlow, PyTorch, scikit-learn, OpenCV
+## Focus
 
-**Backend & Infrastructure**
-Node.js, Docker, API Development
+Artificial Intelligence for accessibility and privacy  
+Computer Vision  
+Decentralized and resilient systems  
 
-**Blockchain & Cryptography**
-Ethereum, Solidity, Web3.js, Decentralized Systems
-
-**Databases**
-PostgreSQL
-
----
-
-## Focus Areas
-
-- Artificial Intelligence & Machine Learning
-- Computer Vision & Image Processing
-- Decentralized Systems & Blockchain
-- Cryptography & Security
-- Innovation Research
-
----
-
-**Location:** Moscow, Russia  
-**Timezone:** UTC+3
-
-*Last updated: 2025*
+*Last updated: December 2025*
